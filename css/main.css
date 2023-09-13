@@ -98,7 +98,8 @@ textarea {
 
 /*Large Background Image*/
 html {
-  background: url(../img/pexels-expect-best-351265.jpg) no-repeat center center fixed;
+  /*background: url(../img/pexels-expect-best-351265.jpg) no-repeat center center fixed;*/
+  background: url(../img/pexels-pixabay-164716.jpg) no-repeat center center fixed;
   height: 100%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
